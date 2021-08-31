@@ -19,12 +19,12 @@
                 ],
                 "ports": [
                     {
-                        "containerPort": 5000,
-                        "hostPort": 5000
+                        "containerPort": 8081,
+                        "hostPort": 8081
                     }
                 ]
             },
-        "python": {
+            "python": {
                 "file": "driver.py"
             }
         }, {
